@@ -23,4 +23,7 @@ The project is clearly in an iterative prototype stage rather than a finished co
 ![alt text](imgs/pg1.png)
 ![alt text](imgs/pg2.png)
 ![alt text](imgs/pg3.png)
+![alt text](imgs/purchase.png)
+![alt text](imgs/compoents.png)
+
 No explicit license was provided in the workspace. If you intend to share or manufacture this design, confirm the legal and licensing requirements before distributing or commercializing the PCB files.
